@@ -1,6 +1,7 @@
 #+TITLE: Curriculum Vitae
 #+AUTHOR: Josh Burns
 #+DATE: 21/05/2021
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
 
 * Introduction
 * Education
