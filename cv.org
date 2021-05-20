@@ -1,0 +1,18 @@
+#+TITLE: Curriculum Vitae
+#+AUTHOR: Josh Burns
+#+DATE: 21/05/2021
+
+* Introduction
+* Education
++ (2015-2016) Evocca College
++ (2011-2014) Chisholm TAFE
++ (2008-2011) Balcombe Grammar School
+* Qualifications
++ (2015-2016, Evocca College) Diploma - Software Development
++ (2015-2016, Evocca College) Diploma - Computer Science
++ (2013-2014, Chisholm TAFE) Cert III / IV - Computer Systems Engineering
++ (2011, Chisholm TAFE) Cert II - Automotive Mechanics
+* Employment
++ (2012) Marine Mechanic (Pre-Apprentice) - BJ Marine, Chelsea Heights.
++ (2014-2015) Software Engineer - LOKE Digital, Richmond.
++ (2016-Present) Electronics Technician / R&D - MePACS (Peninsula Health), Chelsea Heights  
