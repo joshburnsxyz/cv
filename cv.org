@@ -17,12 +17,21 @@
 * Employment
 ** (2016-Present) Electronics Technician / R&D - MePACS (Peninsula Health), Chelsea Heights
 *** Duties
-+ Repair and programming of Medical Alarm Devices.
++ Repair and programming of medical alarm devices and related electronics.
 + Development of in-house software for workflow.
 + Research and development of new products and market research.
 ** (2014-2015) Software Engineer - LOKE Digital, Richmond
 *** Duties
++ Development and maintenance of Full stack web apps using technologies like Nodejs, MongoDB, AWS, Puppet, Ansible, and more.
++ Server maintenance and backups
 ** (2012) Marine Mechanic (Pre-Apprentice) - BJ Marine, Chelsea Heights
 *** Duties
++ Clean and Detail of clients various watercraft including boats and jetskis.
++ Assembly of marine trailers
++ Repair and diagnosis of outboard motors
++ installation of electronics on watercraft like audio systems
 ** (2010) Stock & Floor Assistant - Ritches IGA, Dromana
 *** Duties
++ Stocking of shelves
++ Stock take
++ Customer assistance
