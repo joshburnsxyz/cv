@@ -4,6 +4,24 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
 
 * Introduction
+** About Me
+I am a technology enthusiast. With a life-long passion for exploring what technology can do and building things with it.
+I have years of experience both through traditional education and self taught in many different facets of programming,
+electronics, computer science, and mechanical repairs. I pride myself on being a quick learner that is capable of thinking
+on my feet and learning on the job. Ontop of my professional experience, I have many years of IT, programming, and repair
+experience for friends and family.
+** Skills
++ Polyglot programmer, Capable of using many languages and frameworks productivly.
+  + Ruby and Ruby on Rails
+  + PHP
+  + Node.js
+  + Go
+  + Rust
+  + and more
++ Comfortable in any operating system.
+  + Windows, and Windows Server
+  + Many Linux / Unix based systems - Debian, Arch, CentOS, RHEL, Solaris, and more
+  + MacOS / OSX
 * Education
 + (2015-2016) Evocca College
 + (2011-2014) Chisholm TAFE
