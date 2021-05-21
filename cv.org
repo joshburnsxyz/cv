@@ -19,9 +19,16 @@ experience for friends and family.
   + Rust
   + and more
 + Comfortable in any operating system.
-  + Windows, and Windows Server
+  + Windows, and Windows Server / Active Directory administration
   + Many Linux / Unix based systems - Debian, Arch, CentOS, RHEL, Solaris, and more
   + MacOS / OSX
++ PC Construction and Repair
+  + General PC maintenance and support
++ Electronics Construction and Repair
+  + Construction and design of circuits and wiring looms / harnesses
+  + Soldering
+  + Fault Finding
++ Strong ability to work out and deal with problems in a logical manner
 * Education
 + (2015-2016) Evocca College
 + (2011-2014) Chisholm TAFE
@@ -30,6 +37,7 @@ experience for friends and family.
 + (2015-2016, Evocca College) Diploma - Software Development
 + (2015-2016, Evocca College) Diploma - Computer Science
 + (2013-2014, Chisholm TAFE) Cert IV - Computer Systems Engineering
++ (2013, iTAFE) RSA (Responsible Service of Alcohol)
 + (2012-2013, Chisholm TAFE) VCE Equivelancy
 + (2011, Chisholm TAFE) Cert II - Automotive Mechanics
 * Employment
