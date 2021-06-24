@@ -61,3 +61,10 @@ experience for friends and family.
 + Stocking of shelves
 + Stock take
 + Customer assistance
+* TODO References
+| Name | Phone | Email |
+|------+-------+-------|
+* Project Portfolio
+| Name   | Description           | URL |
+|--------+-----------------------+-----|
+| Bantam | Lightweight webserver |     |
