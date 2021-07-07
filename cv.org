@@ -65,6 +65,6 @@ experience for friends and family.
 | Name | Phone | Email |
 |------+-------+-------|
 * Project Portfolio
-| Name   | Description           | URL |
-|--------+-----------------------+-----|
-| Bantam | Lightweight webserver |     |
+| Name        | Description                                 | URL                           |
+|-------------+---------------------------------------------+-------------------------------|
+| Jargon Wiki | A light no-frills wiki system written in go | https://jargonwiki.github.io/ |
