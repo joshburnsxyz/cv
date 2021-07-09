@@ -1,5 +1,5 @@
 # Curriculum Vitae
-_Josh Burns_ &middot; _21/05/2021_
+_Josh Burns_ &middot; _21/05/2021_ &middot; joshyburnss@gmail.com &middot; <add phone number here>
 
 ## Introduction
 
@@ -11,13 +11,12 @@ on my feet and learning on the job. Ontop of my professional experience, I have 
 experience for friends and family.
 
 ### Skills
-+ Polyglot programmer, Capable of using many languages and frameworks productivly.
-  + Ruby and Ruby on Rails
++ Polyglot programmer, profecient in many programming languages and frameworks, chiefly amongst them.
+  + Ruby
   + PHP
-  + Node.js
+  + Javascript
   + Go
   + Rust
-  + and more
 + Comfortable in any operating system.
   + Windows, and Windows Server / Active Directory administration
   + Many Linux / Unix based systems - Debian, Arch, CentOS, RHEL, Solaris, and more
