@@ -50,6 +50,8 @@ experience for friends and family.
 + Repair and programming of medical alarm devices and related electronics.
 + Development of in-house software for workflow.
 + Research and development of new products and market research.
+### Acomplishments
++ Built multiple software solutions for in-house automation.
 
 ## (2014-2015) Software Engineer - LOKE Digital, Richmond
 ### Duties
