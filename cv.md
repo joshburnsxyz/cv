@@ -70,10 +70,8 @@ experience for friends and family.
 + Customer assistance
 
 # TODO References
-| Name | Phone | Email |
-|------+-------+-------|
+- _Name of Person_ &middot; __PHONE NUMBER__
 
 # Project Portfolio
-| Name        | Description                                 | URL                           |
-|-------------+---------------------------------------------+-------------------------------|
-| Jargon Wiki | A light no-frills wiki system written in go | https://jargonwiki.github.io/ |
+
+[Jargon Wiki](https://jargonwiki.github.io/) - A light no-frills wiki system written in Go.
