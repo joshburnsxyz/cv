@@ -1,16 +1,16 @@
-#+TITLE: Curriculum Vitae
-#+AUTHOR: Josh Burns
-#+DATE: 21/05/2021
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+# Curriculum Vitae
+_Josh Burns_ &middot; _21/05/2021_
 
-* Introduction
-** About Me
+## Introduction
+
+### About Me
 I am a technology enthusiast. With a life-long passion for exploring what technology can do and building things with it.
 I have years of experience both through traditional education and self taught in many different facets of programming,
 electronics, computer science, and mechanical repairs. I pride myself on being a quick learner that is capable of thinking
 on my feet and learning on the job. Ontop of my professional experience, I have many years of IT, programming, and repair
 experience for friends and family.
-** Skills
+
+### Skills
 + Polyglot programmer, Capable of using many languages and frameworks productivly.
   + Ruby and Ruby on Rails
   + PHP
@@ -29,42 +29,51 @@ experience for friends and family.
   + Soldering
   + Fault Finding
 + Strong ability to work out and deal with problems in a logical manner
-* Education
+
+### Education
 + (2015-2016) Evocca College
 + (2011-2014) Chisholm TAFE
 + (2008-2011) Balcombe Grammar School
-* Qualifications
+
+## Qualifications
 + (2015-2016, Evocca College) Diploma - Software Development
 + (2015-2016, Evocca College) Diploma - Computer Science
 + (2013-2014, Chisholm TAFE) Cert IV - Computer Systems Engineering
 + (2013, iTAFE) RSA (Responsible Service of Alcohol)
 + (2012-2013, Chisholm TAFE) VCE Equivelancy
 + (2011, Chisholm TAFE) Cert II - Automotive Mechanics
-* Employment
-** (2016-Present) Electronics Technician / R&D - MePACS (Peninsula Health), Chelsea Heights
-*** Duties
+
+# Employment
+
+## (2016-Present) Electronics Technician / R&D - MePACS (Peninsula Health), Chelsea Heights
+### Duties
 + Repair and programming of medical alarm devices and related electronics.
 + Development of in-house software for workflow.
 + Research and development of new products and market research.
-** (2014-2015) Software Engineer - LOKE Digital, Richmond
-*** Duties
+
+## (2014-2015) Software Engineer - LOKE Digital, Richmond
+### Duties
 + Development and maintenance of Full stack web apps using technologies like Nodejs, MongoDB, AWS, Puppet, Ansible, and more.
 + Server maintenance and backups
-** (2012) Marine Mechanic (Pre-Apprentice) - BJ Marine, Chelsea Heights
-*** Duties
+
+## (2012) Marine Mechanic (Pre-Apprentice) - BJ Marine, Chelsea Heights
+### Duties
 + Clean and Detail of clients various watercraft including boats and jetskis.
 + Assembly of marine trailers
 + Repair and diagnosis of outboard motors
 + installation of electronics on watercraft like audio systems
-** (2010) Stock & Floor Assistant - Ritches IGA, Dromana
-*** Duties
+
+## (2010) Stock & Floor Assistant - Ritches IGA, Dromana
+### Duties
 + Stocking of shelves
 + Stock take
 + Customer assistance
-* TODO References
+
+# TODO References
 | Name | Phone | Email |
 |------+-------+-------|
-* Project Portfolio
+
+# Project Portfolio
 | Name        | Description                                 | URL                           |
 |-------------+---------------------------------------------+-------------------------------|
 | Jargon Wiki | A light no-frills wiki system written in go | https://jargonwiki.github.io/ |
