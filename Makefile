@@ -14,7 +14,7 @@ cv.pdf: $(SRC_DIR)/cv.tex $(CV_SRCS)
 
 coverletter.pdf: $(SRC_DIR)/coverletter.tex
 	$(DOCKER_CMD) $(CC) -output-directory=$(SRC_DIR) $<
-	@mv $(SRC_DIR) ./coverletter.pdf
+	@mv $(SRC_DIR)/coverletter.pdf ./coverletter.pdf
 
 clean:
 	rm -f $(SRC_DIR)/*.pdf
