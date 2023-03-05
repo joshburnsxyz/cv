@@ -4,6 +4,17 @@ This is the LaTEX source for my CV & Cover Letter. Built using [Awesome-CV](http
 
 Build the PDF with docker and texlive.
 
-```bash
-docker run --rm --user $(id -u):$(id -g) -i -w "/doc" -v "$PWD":/doc thomasweise/texlive make
+## Requirements
+
+- Docker
+- Internet
+- GNU Make toolchain
+
+## Usage
+
+> Ensure docker daemon is running.
+
+```console
+$ cd ./cv
+$ make
 ```
