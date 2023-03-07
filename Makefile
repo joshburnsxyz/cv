@@ -1,4 +1,3 @@
-.PHONY: clean
 
 CC = xelatex
 SRC_DIR = src
@@ -20,3 +19,5 @@ clean:
 	rm -f $(SRC_DIR)/*.pdf
 	rm -f $(SRC_DIR)/*.aux
 	rm -f $(SRC_DIR)/*.log
+
+.PHONY: clean all
